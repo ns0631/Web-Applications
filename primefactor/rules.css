@@ -1,0 +1,41 @@
+h1 {
+  font-family: sans-serif;
+}
+
+form {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+input {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+pre {
+  font-size: 25px;
+  font-family: monospace;
+}
+
+p {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+a {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+label {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+#apps {
+  border-style: solid;
+  border-color: green;
+  border-width: 5px;
+  background-color: lavender;
+}

@@ -1,0 +1,36 @@
+body {
+  background-color: #7FFFD4;
+}
+
+h1 {
+  font-family: sans-serif;
+  margin-left:3em;
+  margin-top:2em;
+}
+
+p {
+  font-size:25px;
+  font-family: sans-serif;
+  margin-left: 4em;
+}
+
+a {
+  font-size:25px;
+  font-family: sans-serif;
+}
+form {
+  font-size:30px;
+  font-family: sans-serif;
+}
+input {
+  font-size: 30px;
+}
+pre {
+  font-size:25px;
+  width:40em;
+  border-color:#000000;
+  border-style: solid;
+  border-width: 3px;
+  background-color: #A9A9A9;
+  margin-left: 4em;
+}
